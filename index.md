@@ -38,6 +38,11 @@ see the changes take effect locally.
 </div>
 {% endif %}
 
+<h2>Registration</h2>
+<p>Please use the <a href="https://www.archer.ac.uk/training/registration/index.php">ARCHER course registration form</a> to sign up for the workshop.</p>
+
+<hr/>
+
 <h2 id="general">General Information</h2>
 
 {% comment %}
