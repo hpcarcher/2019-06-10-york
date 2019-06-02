@@ -174,9 +174,6 @@ Display the contact email address set in the configuration file.
 
 <hr/>
 
-{% comment %} 
-SURVEYS - DO NOT EDIT SURVEY LINKS 
-
 <h2 id="surveys">Surveys</h2>
 <p>Please be sure to complete these surveys before and after the workshop.</p>
 {% if site.carpentry == "swc" %} 
@@ -191,7 +188,6 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 {% endif %}
 
 <hr/>
-{% endcomment %}
 
 {% comment %}
 SCHEDULE
