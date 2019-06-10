@@ -399,7 +399,7 @@ please preview your site before committing, and make sure to run
 
     <div class="tab-content">
       <article role="tabpanel" class="tab-pane active" id="make-windows">
-        <p>Make will have been installed by the SWC installer.</p>
+        <p>Use the <a href="https://github.com/swcarpentry/windows-installer/releases/download/v0.3/SWCarpentryInstaller.exe">Software Carpentry Windows Installer</a>.</p>
       </article>
       <article role="tabpanel" class="tab-pane active" id="make-macos">
         <p>
